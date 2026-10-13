@@ -6,6 +6,11 @@ US Superstore 구매 데이터를 기반으로 **매출 성장 구조와 고객 
 
 📄 분석 과정 전체(시각화 포함)는 포트폴리오 PDF 에 정리되어 있습니다. 이 문서는 프로젝트 요약이며, 코드와 설계 과정은 notebooks/에서 확인하실 수 있습니다.
 
+## 📊 Tableau Dashboard
+🔗 **[Tableau Public Dashboard](https://public.tableau.com/app/profile/.55641854/vizzes)**
+
+
+
 ## 🎯 Analysis Objective
 | Question | Analysis |
 | --- | --- |
@@ -137,8 +142,6 @@ Mann-Whitney U Test와 Effect Size를 활용한 결과:
 | **New Customers**      | 초기 정착    | 2차 구매 유도    |
 | **Lost Customers / Hibernating** | 저비용 재활성화 | 선별적 리타겟팅    |
 
-## 📊 Tableau Dashboard
-🔗 **[Tableau Public Dashboard]("https://public.tableau.com/app/profile/.55641854/vizzes")**
 
 ## 📁 Repository Structure
 ```
