@@ -153,20 +153,14 @@ us-ecommerce-rfm/
 │   └── README.md
 │
 ├── sql/
-│   ├── 01_data_preparation.sql
+│   ├── 01_customer_summary.sql
 │   ├── 02_revenue_analysis.sql
-│   └── 03_customer_analysis.sql
+│   ├── 03_customer_behavior.sql
+│   └── 04_crfm_segmentation.sql
 │
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_rfm_segmentation.ipynb
-│
-└── outputs/
-    ├── revenue_trend.png
-    ├── lorenz_curve.png
-    ├── cohort_analysis.png
-    ├── rfm_segments.png
-    └── customer_strategy.png
+└── notebooks/
+    ├── 01_eda.ipynb
+    └── 02_rfm_segmentation.ipynb
 ```
 
 ## 🧠 What I Learned
